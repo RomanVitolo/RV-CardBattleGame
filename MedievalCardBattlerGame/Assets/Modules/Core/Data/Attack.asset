@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 658a9f0a6c4444f7942f3c56640e3739, type: 3}
+  m_Name: Attack
+  m_EditorClassIdentifier: RV.CardBattler.Modules.Core.Runtime::Modules.Core.Scripts.Runtime.CardData
+  CardName: Attack
+  Description: Deals 3 damage.
+  ActionCost: 1
+  Icon: {fileID: -5388424960534825893, guid: 893bc0c803934e94fb85700874ac6152, type: 3}
+  AttackPower: 3
+  HealPower: 0
